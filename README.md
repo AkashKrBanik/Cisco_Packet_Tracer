@@ -1,9 +1,16 @@
 # Networking Concepts using Cisco Packet Tracer
 
-## Topics Explored:
-Network Topologies, IP Routing, Subnetting, DHCP Server, DNS Server, HTTP Server, FTP Server, Web Server, NAT, Access Control, ARP, OSPF, RIP, TCP, UDP, Hubs, Routers and Switches.
+## 🌐 Topics Explored:
+- Network Topologies (Star, Ring, Mesh)
+- IP Addressing and Subnetting
+- Network Protocols (TCP, UDP, ARP)
+- Server Configurations (DNS, HTTP, FTP, DHCP)
+- Routing Protocols (OSPF, RIP)
+- Network Address Translation (NAT)
+- Network Security (Access Control Mechanisms)
 
-## Learnings
+
+## 🔑 Key Learning Outcomes
 Learned a lot about how devices communicate, how data moves through networks, and how to set up and troubleshoot network systems. Here are some key things I learned:
 - Building Network Topologies: I learned how different devices communicate using various network designs. I worked on creating different network designs, like star, ring, and mesh topologies, and understood how these network architectures impact the network’s performance, reliability and scalability.
 - Understanding Network Protocols: I discovered the behind-the-scenes magic of how data travels between computers. By simulating real-world scenarios, I gained insights into critical network protocols like TCP and UDP, understanding the fundamental principles of reliable communication.
@@ -16,7 +23,14 @@ Learned a lot about how devices communicate, how data moves through networks, an
 The practical assessments challenged me to create complex network scenarios, from mesh topologies to multi-server communication setups, reinforcing my theoretical knowledge with real-world problem-solving skills. This has not just been about learning technical skills, but understanding the strategic thinking behind network design and management. 
 Learned that networking isn't just about technical stuff – it's about connecting people and information efficiently.
 
-### Screenshots
+## 📂 Repository Contents
+- Detailed network configuration files
+- Topology design screenshots
+- Simulation scenarios
+- Network troubleshooting examples
+- Multi-server communication setups
+
+## 📸 Screenshots
 <img src="https://github.com/AkashKrBanik/Cisco_Packet_Tracer/blob/main/Screenshots/ss_1.png" alt="Login Form" width="800" height="400">
 <img src="https://github.com/AkashKrBanik/Cisco_Packet_Tracer/blob/main/Screenshots/ss_2.png" alt="Login Form" width="800" height="400">
 <img src="https://github.com/AkashKrBanik/Cisco_Packet_Tracer/blob/main/Screenshots/ss_3.png" alt="Login Form" width="800" height="500">
